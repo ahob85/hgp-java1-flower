@@ -139,7 +139,7 @@ public class Flower
      * letters the player has missed so far.
      */
     public static void printBoard() {
-
+ 
     }
 
     /**
@@ -202,7 +202,7 @@ public class Flower
      * remain unmodified.
      */
     public static void processGuess() {
- 
+
     }
 
     /**
@@ -236,7 +236,7 @@ public class Flower
      * global variable running to false and print a simple "Goodbye" message.
      */
     public static void processGameOver() {
- 
+
     }
 
     /**
